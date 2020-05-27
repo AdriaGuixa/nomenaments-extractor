@@ -1,0 +1,12 @@
+ENV
+logs
+dist
+build
+__pycache__
+*.pyc
+.vscode
+htmlcov
+.coverage
+_dist
+unittests.xml
+.pytest_cache/

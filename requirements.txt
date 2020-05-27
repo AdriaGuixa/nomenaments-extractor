@@ -1,0 +1,5 @@
+PyInstaller~=3.5
+PyQt4==4.11.4
+xlsxwriter~=1.1.8
+requests~=2.23.0
+beautifulsoup4~=4.8.2
